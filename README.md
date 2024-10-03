@@ -1,6 +1,6 @@
 # Prototipo 2
 
-**Grupo**: GIDS4102
+**Grupo**: GIDS4102  
 **Alumno**: Rodrigo Julian Vega Montoya
 
 ## Tabla de Contenidos
@@ -14,7 +14,7 @@ _Juego con proyectiles hacia animales, además de incluir movimiento en el jugad
 **Motor de Juego**: Unity
 
 ## Evidencia de Desarrollo
-[Evidencia en PDF](https://drive.google.com/file/d/1Z5VfypgtG7u4XxGFNZgJ0HUzBpsw847G/view?usp=drive_link)
+<a href="https://drive.google.com/file/d/1Z5VfypgtG7u4XxGFNZgJ0HUzBpsw847G/view?usp=drive_link" target="_blank">PDF de Evidencia</a>
 
 ## Características
 - Lanzamiento de Proyectiles
